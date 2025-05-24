@@ -1,0 +1,4 @@
+mcp[cli]
+asyncpg
+python-dotenv
+
